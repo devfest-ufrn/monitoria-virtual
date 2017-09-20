@@ -1,0 +1,15 @@
+Acreditamos desde o começo que existem duas personas principais para o nosso sistema: alunos e monitores.
+Por isso, fizemos questionários direcionadas a cada um desses público, visando entender melhor cada um deles.
+
+Essa persona foi gerada a partir do estudo das respostas obtidas no formulário destinado para os alunos.
+(https://docs.google.com/forms/d/e/1FAIpQLSfLhHZ6bDNjr8EXPVQEbb7W7O5wZJKQ3f3pB2kOrJiVzHGNTg/viewform)
+
+Paula é uma aluna do BTI e também monitora da matéria LP2. Ela percebe que a procura pela monitoria é baixa, o que por vezes a deixa se sentindo mal por reservar um horário do seu dia para atender os alunos, sendo que eles não aparecem.
+Paula não tem uma idéia completamente fechada sobre qual a principal causa para isso, mas ela acredita que existem 3 principais, sendo eles:
+	- fator tempo (conflito de horários e falta de tempo)
+	- timidez
+	- os alunos só tem interesse na monitoria em véspera de provas
+Apresentado a uma possível solução online feita especificamente atender os alunos virtualmente a cerca de suas dúvidas nas disciplinas, Paula se mostrou bastante interessada, principalmente se fosse uma solução voltada para a plataforma WEB.
+Indagada sobre quais seriam as funcionalidades mais importantes nesse sistema para sanar o problema, destacou-se duas:
+	- Threads sobre dúvidas (como o Stackoverflow)
+	- Um chat para conversar diretamentecom os alunos

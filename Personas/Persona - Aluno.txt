@@ -1,0 +1,10 @@
+Acreditamos desde o começo que existem duas personas principais para o nosso sistema: alunos e monitores.
+Por isso, fizemos questionários direcionadas a cada um desses público, visando entender melhor cada um deles.
+
+Essa persona foi gerada a partir do estudo das respostas obtidas no formulário destinado para os alunos.
+(https://docs.google.com/forms/d/e/1FAIpQLSelJsGI2tD1iz_UsEv9r-mVdwxysywb61rmrnze03e5XouF6w/viewform)
+
+José é um aluno do BTI que não costuma frequentar monitorias. A principal causa para isso é o fator tempo, uma vez que ele não dispõe de muitas horas vagas e, o pouco tempo vago que tem, não bate com o horário disponibilizado pela monitoria.
+Atualmente José utiliza três principais "recursos" para sanar suas dúvidas: colegas, vídeos (YouTube) e fóruns da internet.
+Além desses três recursos, José também costuma tirar dúvidas com o professor em si, seja em sala de aula ou via e-mail (embora este último seja um processo por vezes demorado).
+Apresentado a uma possível solução online feita especificamente para concentrar dúvidas e esclarimentos relacionadas as suas disciplinas do BTI, José se mostrou bastante interessado, principalmente se fosse uma solução voltada para a plataforma WEB.
